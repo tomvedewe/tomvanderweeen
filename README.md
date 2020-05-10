@@ -4,9 +4,10 @@
 
 Hallo my name is Tom, I was born in 1995 and I am studying applied computer science at HoGent. I'm passionate about creating, problem solving and math.
 
-* Front-end:  - In depth knowledge of html and css. 
-              - Experienced with Javascript(6)/Typescript.
-              - Angular              
+* Front-end:  
+  * In depth knowledge of html and css. 
+  * Experienced with Javascript(6)/Typescript.
+  * Angular              
 * Back-end: Java, ASP .NET Core MVC and API with C#.
 * Full-stack: MERN
 * Testing: Unit testing (JUnit & XUnit.net) and mockito framework.
