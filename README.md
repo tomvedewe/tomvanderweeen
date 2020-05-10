@@ -1,33 +1,34 @@
 ## Welcome to my portfolio
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hallo my name is Tom, I was born in 1995 and I am studying applied computer science at HoGent. I'm passionate about creating, problem solving and math.
 
-```markdown
-Syntax highlighted code block
+• Front-end:  -In depth knowledge of html and css. -Experienced with Javascript(6)/Typescript.
+              -Angular
+• Back-end: Java, ASP .NET Core MVC and API with C#.
+• Full-stack: MERN
+• Testing: Unit testing (JUnit & XUnit.net) and mockito framework.
+• Data: Experience with Postgres, mysql, data warehousing, R Studio & Power BI.
+• Analysis/Design: Can analyse requirements of clients and turn them into activity -, sequence -, use case - en class         diagrams that give a clear insight to non-ict people.
+• Rest: Docker, Bash-scripting, Wordpress & Bootstrap
 
-# Header 1
-## Header 2
-### Header 3
+### Work
 
-- Bulleted
-- List
+**Koplan Systems**
+_Full stack developer_
 
-1. Numbered
-2. List
+Developing a framework with the MERN - stack.
 
-**Bold** and _Italic_ and `Code` text
+### Hobbies
 
-[Link](url) and ![Image](src)
-```
+When I'm not programming I spend a lot of time playing music, a few year back i studied at the Royal Conservatory of Brussels.
+I also play rugby at the [Gent Rugby Football Club](https://www.gent-rugby.be/). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
+You can contact me at:
+_tom.van.der.weeen@gmail.com_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomvedewe/tomvanderweeen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And you can find me at:
+[github.com/tomvedewe](https://github.com/tomvedewe)
