@@ -41,4 +41,4 @@ You can find my repositories at:
 
 And I am also on LinkedIn:
 
-[Tom Van der Weeën](www.linkedin.com/in/tom-van-der-weeën-40b46917b)
+[Tom Van der Weeën](https://www.linkedin.com/in/tom-van-der-wee%C3%ABn-40b46917b/)
