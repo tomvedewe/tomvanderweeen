@@ -35,6 +35,10 @@ You can contact me at:
 
 _tom.van.der.weeen@gmail.com_
 
-And you can find me at:
+You can find my repositories at:
 
 [github.com/tomvedewe](https://github.com/tomvedewe)
+
+And I am also on LinkedIn:
+
+[Tom Van der Weeën](www.linkedin.com/in/tom-van-der-weeën-40b46917b)
